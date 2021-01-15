@@ -1,3 +1,5 @@
+# Парсер курса валют с сайта Приватбанк
+
 from requests import get
 from bs4 import BeautifulSoup
 from tkinter import Tk, Entry, CENTER, DISABLED, Label
