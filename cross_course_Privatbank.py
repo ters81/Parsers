@@ -1,4 +1,4 @@
-# Парсер курса валют с сайта Приватбанк
+# Парсер для определения кросс курса валют (EUR/USD) с сайта Приватбанк
 
 from requests import get
 from bs4 import BeautifulSoup
